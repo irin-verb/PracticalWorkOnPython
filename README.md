@@ -6,7 +6,7 @@
 >
 > Practical work at the university
 
-**Предмет (Subject)** :  Учебная практика / Educational practice
+**Предмет / Subject** :  Учебная практика / Educational practice
 
 **Курс / Course** : 2ой курс / 2nd course
 
